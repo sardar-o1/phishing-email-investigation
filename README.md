@@ -6,7 +6,6 @@ Email remains one of the most common entry points for attackers targeting compan
 
 The objective of this lab is to develop practical phishing analysis skills that are essential for an entry level Security Operations Center (SOC) Analyst role.
 
----
 
 ## Skills Demonstrated
 
@@ -21,20 +20,21 @@ The objective of this lab is to develop practical phishing analysis skills that 
 -	MITRE ATT&CK Mapping
 -	Incident Documentation
 
----
 
 ## Tools Used
 
 - Kali Linux (analysis environment)
 - Thunderbird
+- Eml-analyzer.herokuapp.com 
+- mha.azurewebsites.net (Message Header Analyzer)
 - VirusTotal
 - AbuseIPDB
 - CyberChef
 - URLScan
 - MXToolBox
 - WHOIS / DNS Lookup
+- Talosintelligence
 
----
 
 ## Investigation Workflow
 
