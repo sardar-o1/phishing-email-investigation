@@ -33,7 +33,6 @@ The objective of this lab is to develop practical phishing analysis skills that 
 - URLScan
 - MXToolBox
 - WHOIS / DNS Lookup
-- Talosintelligence
 
 
 ## Investigation Workflow
